@@ -1,5 +1,5 @@
 Project Headline & Title
-Project Title: Retail Performance & Profitability Diagnostic
+Project Title: **Retail Performance & Profitability Diagnostic**
 
 Headline: Driving Profitability & Operational Optimization in Retail Supply Chains through Data Analytics
 
