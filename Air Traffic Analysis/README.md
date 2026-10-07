@@ -37,6 +37,8 @@ This project addresses client requirements for understanding airline operational
 * `Origin Airport` — Spatial filter for airport-level traffic breakdown (BWI, DCA, IAD).
 
 ### Data Model Architecture
+
+https://github.com/anujnarang0308/Power-BI-Projects/blob/main/Air%20Traffic%20Analysis/Airline%20Traffic%20Analysis.pbit
 ```text
 [Sheet1 / Flight Records]
   ├── Airline Name
