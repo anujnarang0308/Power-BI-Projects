@@ -65,8 +65,9 @@ Restructuring Pricing & Discount Policies: Instituting strict guardrails on disc
 
 Geographic Strategic Turnaround: Target loss-making states (e.g., Texas, Illinois, Ohio) for price restructuring, higher delivery fee thresholds, or localized product mix adjustments.
 
-Screenshot: https://github.com/anujnarang0308/Power-BI-Projects/blob/main/Air%20Traffic%20Analysis%20-Screenshot.png
 
 Portfolio Realignment: Shift promotional emphasis toward high-opportunity, high-margin categories (Technology and Office Supplies) and re-evaluate pricing structures within the Furniture portfolio to remediate its low 2.49% margin.
 
 Customer Acquisition Strategy: Maintain volume-based strategies for the Consumer segment while expanding B2B outreach to the Home Office segment to capture higher relative margins.
+
+Screenshot: https://github.com/anujnarang0308/Power-BI-Projects/blob/main/Air%20Traffic%20Analysis%20-Screenshot.png
