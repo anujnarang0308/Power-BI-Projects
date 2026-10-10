@@ -1,4 +1,7 @@
 ## 📌 Project Overview
+
+https://github.com/anujnarang0308/Power-BI-Projects/blob/main/Air%20Traffic%20Analysis/Air%20Traffic%20Analysis%20-Screenshot.png
+
 This project addresses client requirements for understanding airline operational reliability and departure traffic distribution:
 * **Flight Status Analysis:** Evaluating the proportion of on-time, delayed, and cancelled flights month-by-month and by day of the week.
 * **Air Traffic Analysis:** Identifying peak departure hours and traffic density across origin airports (BWI, DCA, IAD) to provide actionable insights for flight scheduling and booking optimizations.
